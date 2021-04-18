@@ -1,0 +1,10 @@
+com/example/prak5onbottomnav/HomeFragment.java
+ com.example.prak5onbottomnav.HomeFragment
+com/example/prak5onbottomnav/ListFragment.java
+ com.example.prak5onbottomnav.ListFragment
+com/example/prak5onbottomnav/BuildConfig.java
+ com.example.prak5onbottomnav.BuildConfig
+com/example/prak5onbottomnav/MainActivity.java
+ com.example.prak5onbottomnav.MainActivity
+com/example/prak5onbottomnav/ProfilFragment.java
+ com.example.prak5onbottomnav.ProfilFragment
